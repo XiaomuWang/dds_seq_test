@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libsutpc_dds.so.1 -o libsutpc_dds.so.0.1 CMakeFiles/sutpc_dds.dir/src/HelloWorld.cxx.o CMakeFiles/sutpc_dds.dir/src/HelloWorldPubSubTypes.cxx.o CMakeFiles/sutpc_dds.dir/src/HelloWorldPublisher.cpp.o CMakeFiles/sutpc_dds.dir/src/HelloWorldSubscriber.cpp.o CMakeFiles/sutpc_dds.dir/src/HelloWorld_main.cpp.o 
